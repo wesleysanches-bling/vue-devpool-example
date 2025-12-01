@@ -3,7 +3,7 @@
 		<h1>Home</h1>
 		<p>Bem-vindo à página inicial!</p>
 	</main>
-</template>
+  </template>
 
 <script setup lang="ts">
 // Página Home
